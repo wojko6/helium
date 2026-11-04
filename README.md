@@ -1,3 +1,4 @@
+> **Fork provenance note (2026-11-04):** this repository is a `wojko6/helium` fork. The product overview, download links and development instructions below are inherited from the original Helium project. The latest inspected commit on this fork's `main` is dated **2026-09-17**; no independent claim is made that this fork contains all later upstream commits or corresponds to the latest released browser. Check the [upstream project](https://github.com/imputnet/helium) and platform-specific release repositories for current releases; do not treat this fork as evidence of a local workstation deployment.
 <div align="center">
     <img src="resources/branding/app_icon/raw.png"
         title="Helium" alt="Helium logo" width="120" />
